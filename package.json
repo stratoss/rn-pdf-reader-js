@@ -37,7 +37,7 @@
     "expo": ">= 33.0.x < 42.0.x",
     "expo-constants": ">= 5.0.0 < 9.x",
     "expo-file-system": ">= 5.0.0 < 9.x",
-    "react": "16.x",
+    "react": ">= 16.x",
     "react-native": "*",
     "react-native-webview": ">= 7.0.5 < 12.x"
   },

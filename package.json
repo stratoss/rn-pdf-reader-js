@@ -1,6 +1,6 @@
 {
   "name": "rn-pdf-reader-js",
-  "version": "4.1.3",
+  "version": "4.1.7",
   "description": "PDF reader for Expo",
   "main": "node_modules/expo/AppEntry.js",
   "types": "lib/index.d.ts",
